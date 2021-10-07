@@ -1,0 +1,21 @@
+{
+    "name": "yulia/garden",
+    "description": "My garden",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Repo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yulia N",
+            "email": "iuliia_nak@gm.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
