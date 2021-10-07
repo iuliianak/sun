@@ -14,7 +14,15 @@
             "email": "iuliia_nak@gm.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "guzzlehttp/guzzle": "^7.0"
-    }
+        "guzzlehttp/guzzle": "^7.0",
+        "yulia/garden": "*"
+    },
+    "repositories": [
+        {
+            "type" : "path",
+            "url"  : "/home/yulia/www/garden/"
+        }
+    ]
 }
