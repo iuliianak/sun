@@ -21,8 +21,8 @@
     },
     "repositories": [
         {
-            "type" : "github",
-            "url"  : "git@github.com:iuliianak/garden.git"
+            "type" : "path",
+            "url"  : "/home/yulia/www/garden/"
         }
     ]
 }
