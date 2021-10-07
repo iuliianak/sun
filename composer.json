@@ -17,12 +17,6 @@
     "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
-        "yulia/garden": "*"
-    },
-    "repositories": [
-        {
-            "type" : "github",
-            "url"  : "git@github.com:iuliianak/garden.git"
-        }
-    ]
+        "yulia/garden": "dev-master"
+    }
 }
