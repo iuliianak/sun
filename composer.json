@@ -1,0 +1,20 @@
+{
+    "name": "yulia/sun",
+    "description": "sun is shining",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Space\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yulia N",
+            "email": "iuliia_nak@gm.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
